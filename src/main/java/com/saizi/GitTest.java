@@ -10,6 +10,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hot-fix change");
-        System.out.println("push test");
+        System.out.println("push tes32t");
     }
 }
